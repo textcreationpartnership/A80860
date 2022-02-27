@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additional considerations to these contained in the letter against raising the value of money</title>
+            <author>Cromarty, George Mackenzie, Earl of, 1630-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80860</idno>
+            <idno type="STC">Wing C7024</idno>
+            <idno type="STC">ESTC R228047</idno>
+            <idno type="EEBO-CITATION">99896909</idno>
+            <idno type="PROQUEST">99896909</idno>
+            <idno type="VID">132798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2464:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additional considerations to these contained in the letter against raising the value of money</title>
+                  <author>Cromarty, George Mackenzie, Earl of, 1630-1714.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed be John Reid,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>anno Dom: 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Mackenzie, 1st Earl of Cromarty.</note>
+                  <note>A sequel to: 'The mistaken advantage by raising of money, discovered in a letter to a friend'.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  Scotland --  Early works to 1800.</term>
+               <term>Currency question --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract_against_raising_the_value_of_money">
+            <pb facs="tcp:132798:1"/>
+            <pb n="1" facs="tcp:132798:1"/>
+            <head>Additional Conſiderations to theſe contained in the Letter againſt raiſing the Value of Money.</head>
+            <p>BESIDES the General and Permanent Evils which fol<g ref="char:EOLhyphen"/>low on the raſing of Money, and will be more ſenſibly perceiv'd by Poſterity; Such as that by it every perſon in <hi>Scotland,</hi> will loſs as much of his Eſtate, both Moveable and Immoveable, as the Money is raiſed to: That is, the 28th. part, <hi>Viz:</hi> Two Shil<g ref="char:EOLhyphen"/>ling <hi>Scots</hi> on every Six and Fifty, For which the thinking Men of this Age will laugh at you; And thoſe of ſucceeding Ages will Curſe you: I ſay, beſides the Permanent, theſe immediat Injuries will enſue.</p>
+            <p n="1">1<hi>mo.</hi> He who ſells an 100 Bolls of Barly of Cropt 94, that with the Price thereof, which he is to get at <hi>Whiteſunday,</hi> he might buy 50 Bolls of forraign Salt for Fiſhing; He who
+<pb n="2" facs="tcp:132798:2"/>brings in the Salt to ſell, muſt pay for it abroad with Money at the old Rate (for <hi>Spain</hi> will not raiſe their Money in our Example, altho they have better Reaſon to do it) and there<g ref="char:EOLhyphen"/>fore he muſt and will require a 28th. part more of our new raiſed Money: But he who bought the Victual will pay in the new raiſed Money, and no more: Therefore, he who buys the Salt, muſt want a 28th. part thereof, or give a 28th. part more of Bear to purchaſe it. And this will hold in the pur<g ref="char:EOLhyphen"/>chaſe of all forraign Goods proportionably.</p>
+            <p n="2">2<hi>do.</hi> He who ſold his Land for Money to be payed at <hi>Whiteſunday,</hi> when he receives his Money as now raiſed, and goes to imploy that Money in Trade, and gives in his Mo<g ref="char:EOLhyphen"/>ney to a Factor here, for Money abroad, to buy Goods with; the Factor will anſwer no more Money abroad, than the Mo<g ref="char:EOLhyphen"/>ney given in here will be worth in the place where he an<g ref="char:EOLhyphen"/>ſwers the Money, beſides the Current Exchange; Whereby the Seller of the Land doth clearly loſs a 28th. part of his whole Stock, for he muſt pay for the Goods abroad, at the for<g ref="char:EOLhyphen"/>mer Value of Money.</p>
+            <p n="3">3<hi>tio.</hi> If he does not ſend his Money abroad to buy theſe Goods, but buys them from a Merchant who brings them home, This Merchant will Conſider, that he muſt pay for theſe Goods in a place where the Money is not raiſed; And therefore will exact a 28. part more beſides the price that he would have deſired formerly. And Conſequently, he who ſells Lands, or other Goods, to purchaſe them, loſſes a 28. part; That is, he has ſold his Lands or Goods at a 28 part leſs nor he thought to have done, and then he would indeed have done, had the money not been raiſed.</p>
+            <p n="4">4<hi>to.</hi> If a Factor or Merchant have 116 thouſand pounds
+<pb n="3" facs="tcp:132798:2"/>conſigned to him for buying of <hi>Scots</hi> Goods, he will make 112 thouſand buy them, <hi>Ergo,</hi> we get leſs Money for our Goods by the raiſing; and if that Merchant have a mind to buy no more of our Goods, he will remitt his 4000 <hi>lib:</hi> ſuperplus back to the Conſigner; <hi>Ergo,</hi> we keep leſs money within the King<g ref="char:EOLhyphen"/>dome than we would have done, had the Money not been raiſed. And the next time that Money is ſent to buy the like Quantity of Goods in place of 116000 pound, he will ſend only 112000: <hi>Ergo,</hi> There comes leſs Money in by the raiſing. But you will ſay, he will imploy that Superplus alſo to buy Goods in <hi>Scot-land;</hi> No, unleſs he need to export them. But if he do, he leaves no more Money for them than he would have done for the firſt Parcel, had not the Money been raiſed: <hi>Ergo,</hi> upon the Matter we give the ſecond Parcel of our Goods for nothing.</p>
+            <p n="5">5<hi>to.</hi> He who ſold 100 Cows, or 100 Sheep for Money at <hi>Whiteſunday,</hi> in order to the buying of Plate from a Gold-Smith of 116 Ounce weight, when he comes to pay the Gold-Smith in the new raiſed Money, in place of his 116 Ounce, the Gold-Smith will give him but a 112 Ounce, becauſe the Gold-Smith will only reſpect the intrinſick Value of the Money he receives.</p>
+            <p n="6">6<hi>to.</hi> Every Creditor in <hi>Scotland</hi> who ſhall be payed in the new raiſed Money, if he imploy his Money to Merchandice abroad, or if he Give it to a Factor on Bills of Exchange to be raiſed abroad, or if he put it into a Gold-Smiths hand for Plate, in the very firſt Inſtant he will loſs the 28<hi>th.</hi> part of his Stock.</p>
+            <p n="7">7<hi>mo.</hi> All the Liferenters, whoſe Rents are payable in Money, all Hoſpitals, all Servants fees, when payed at <hi>Whitſunday</hi>
+               <pb n="4" facs="tcp:132798:3"/>next, if all or any of thoſe perſons give their Money to Factors, or Gold-ſmiths, or imploy it in forraign Merchandiſe, or ſend it abroad, they will at <hi>Whitſunday</hi> next, and all terms thereafter want the 28 part of their Eſtates and dues.</p>
+            <p n="8">8<hi>vo.</hi> When we pay 12 Months Ceſs to the King, the Sub<g ref="char:EOLhyphen"/>jects pay the ſame that they did formerlie; For as they pay the Ceſs in the new Money, ſo they were payed for their Goods in the new money, but when the King imployes this Money to buy Armes, Amunition, proviſions, or pay Souldiers a<g ref="char:EOLhyphen"/>broad, he will want the 28 part of what we pretend to have given him.</p>
+            <p n="9">9<hi>no.</hi> All who buy ſhipping abroad, and have provided Mo<g ref="char:EOLhyphen"/>ney here for buying thereof, will want a 28 part of what they thought to have had when they come to the Market.</p>
+            <p n="10">10<hi>mo.</hi> All who receive Salleries, Advocates, Clerks, Officers, <hi>&amp;c.</hi> Will receive a 28 part leſs than the Leiges do indeed pay them; For when they have gathered the ſmalls into a ſtock, and imployed this ſtock in Exchange in Merch<g ref="char:EOLhyphen"/>andiſe, or in Gold-ſmiths hands, they will want a 28th part of what they thought they had.</p>
+            <p n="11">11<hi>mo.</hi> It is certain, that when people find that they muſt pay more for all forraign Goods, they will indeavour to raiſe the price of the Native Goods alſo, thereby to get in with the one hand what they give out with the other; Yet before this can be done, there will be an exceſſive loſs in the in<g ref="char:EOLhyphen"/>terim. But when the Goods are rais'd, the King, the Nobi<g ref="char:EOLhyphen"/>lity and Gentrie who have their Rents fixt in Money payment, theſe Rents will buy leſs quantity of Goods of all kinds than they did formerly, that is, they will have ſo much leſs rent than they had.</p>
+            <p n="12">12<hi>mo.</hi> When the prices of all Goods are raiſed, then the
+<pb n="5" facs="tcp:132798:3"/>poor ſervants fees, and the poor workmens wages will not buy ſo much of their neceſſars for life, as theſe fees and wages did formerlie, which be the by, will alſo raiſe all wages and fees, which thô look'd upon as an evil, yet is the beſt effect; <hi>id eſt,</hi> the leaſt evil that will follow on the raiſing of Money, But to come to the very loweſt of all, the Beggars alms will not buy as much food to him as formerly, becauſe the prices of meats riſe unleſs we can be ſo mad as to raiſe the value of the Coppar alſo; And indeed I know no reaſon why we may not as well complement the King of <hi>Sweden</hi> with a part of our Eſtates as the King of <hi>Spain.</hi>
+            </p>
+            <p>That which is anſwered and oppoſed to all this, is,</p>
+            <p n="1">1<hi>mo.</hi> That the raiſing of the value of Forraign Money, will induce the Merchant to bring in the greater Quantity thereof, that is to ſay, whereas formerly he did bring in half a Crown, he needs bring now but 28 ſhillings <hi>Scots;</hi> now how will you prove that 28 pence is more nor half a Crown? You will ſay he will buy the greater Quantity of our Goods; Yes, if he need them, and ſo he would do, had he payed half a Crown for them; But would he not be as well induc'd to buy that greater Quantity, if you ſell him your Goods for half a Dollar which formerly you ſold for half a Crown? And u<g ref="char:EOLhyphen"/>pon the matter it is all one, for you may make a fools para<g ref="char:EOLhyphen"/>dice by thinking your half Dollar is a half Crown, and as long as it paſſes from hand to hand in <hi>Scotland</hi> it may pro<g ref="char:EOLhyphen"/>duce that folly in every <hi>Scots-Man;</hi> But when ever the Money comes to be imployed abroad either in Specie or Exchange, then our half Dollar will be half a Dollar ſtill.</p>
+            <p n="2">2<hi>do.</hi> They ſay the raiſing of our own Standard will keep our own Coyn at home. Not to ſpeak of that fooliſh topick of keeping Money at home by raiſing its value, whereas it can<g ref="char:EOLhyphen"/>not
+<pb n="6" facs="tcp:132798:4"/>be done but by the wiſe ballancing of the trade, for if we export Goods of more value and price than we import, then our ſtock of Money will increaſe, and if we import more Goods in value and price than we export then our Stock of Money will as neceſſarly decreaſe. And the conſideration and redreſs of this were worthie of Counſellers and States-Men indeed, whereas the other Remedy is a groſs miſtake; For if we import Goods and have not Goods to give for them, we muſt pay money for them, and the Importer will take the Money only at its true Value, or if you will give it a greater Denomination, he will require the Greater quantity of it for his price, elſe he were a fool, and wold find his loſs when he returnes to the place where he bought his Goods. But the true Cauſe of exporting our Money is, that we allow forraign Coyn, which is but equivalent to, or leſs in value than our own, to paſs at a higher value than our own (a madneſs peculiar to our ſelves) for if a <hi>Cullogne,</hi> a <hi>Bear,</hi> a <hi>Caſtell Dollar,</hi> &amp;c. Be but equivalent to our four Merk peice, and paſs for two Pence <hi>Sterling</hi> in the Ounce more than it doth, it is a very good Invitation for the Merchant to export our Coyn, and bring in that whereon he will gain ſo much, but thereby the Nation does indeed loſs as much, and it is a miſchievous overvaluing of forraign Coyn, and produces all the foregoing evil effects: The true remedy whereof were not to ſuffer forraign money to paſs above the value of our own, nay not ſo much, and then no Body would export ours, becauſe they could gain nothing by importing baſe Coyn as now they do.</p>
+            <p>It is like wayes urged, That <hi>Croſs Dollars</hi> and <hi>Leggs</hi> ſhould be cryed up to the hight of the <hi>Cullogne</hi> and other Dollars, be<g ref="char:EOLhyphen"/>cauſe they are as good as the other<g ref="char:punc">▪</g> but what gain has a Na<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:132798:4"/>by this, for if they be both of equal value, and that they get the ſame for the <hi>Cullogne</hi> Dollar abroad that they get for the <hi>Croſs Dollar,</hi> it is all one to us whether the Merchant bring us in a <hi>Cullogne Dollar</hi> or a <hi>Croſs Dollar.</hi>
+            </p>
+            <p>Another Objection is, That the <hi>Croſs Dollar,</hi> and <hi>Ducate<g ref="char:EOLhyphen"/>downs</hi> are melted in our own Mint, which is a new Coyned grievance, for never People grudg'd at the bringing in of Good Silver to be coyn'd in their own Mint till now, and you may as well diſcharge a Mint, as prohibite the Melting down of any Silver finer than our own Standard, but if <hi>Croſs Dol<g ref="char:EOLhyphen"/>lars</hi> &amp; <hi>Ducate downs</hi> be finer than our own Standard. Then we need not fear that our Standard is too fine, nor alter it to the worſe, unleſs we reſolve to alter our fine Standard to a baſeneſs, contrar to our Intereſt, to our Law, And in violati<g ref="char:EOLhyphen"/>on of our ſolemn Contract with <hi>England</hi> for Unity of Standard with them. And albeit <hi>England</hi> hath not notic'd the late Encroachment made on that Contract, Yet I am afraid they will not ſuffer a great one, unleſs they reſolve to alter their own Standard; In which caſe, there is no doubt, we ſhould alſo alter, tho both will certainly loſs thereby, both being Kingdoms which have Goods that are neceſſar to other Kingdoms, and therefore wold be bought by forraign Merchan<g ref="char:EOLhyphen"/>ants with Money equivalent to our own Standard, unleſs we allow a worſe Standard to paſs upon us, or make our own as bad as theirs.</p>
+            <p>But until <hi>England</hi> raiſe their Standard, it is the hight of imprudence in us to raiſe ours, nor can any adviſe ſo, who ſeriouſly think on it, except Gold-ſmiths, Merchants and private Men who have Money in Caſh, and who preferr a little private Gain to the Intereſt of the Nation.</p>
+         </div>
+         <div type="currency_values">
+            <pb facs="tcp:132798:5"/>
+            <head>
+               <hi>The Weights of the Moſt ordinar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Silver-Coin by Eſſay, taken at</hi> Gold-Smiths-Hall.</head>
+            <list>
+               <item>
+                  <hi>Nota,</hi> 24 Grains make a penny weight of Silver: This penny is a three pence <hi>Sterling</hi> now.</item>
+               <item>20 penny weight makes an Oze or Ounce of Silver, 12 Ozes or Ounces, make a pound Troes.</item>
+               <item>
+                  <hi>Item,</hi> 4 ſuch Silver Grains make one Carrat Grain for weight<g ref="char:EOLhyphen"/>ing of Gold: And 4 Carrat Grains make one Carrat, and 24 Carrats make one Ounce.</item>
+               <item>The <hi>Sterling</hi> Standard in <hi>Scotland</hi> and <hi>England,</hi> is eleven penny two Grains of fine Silver, and 22 Grains of Al<g ref="char:EOLhyphen"/>loy in the Ounce, Or 11 Ounce 2 penny of fine Silver, and 18 penny of Alloy in the pound.</item>
+            </list>
+            <p>The Account following, ſhews how much worſe the ſeveral Species are than the <hi>Sterling</hi> Standard, counting by the pound Troes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Oun:</cell>
+                     <cell role="label">Pen</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Mexico Real</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Sevil Real</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Portugal Teſton</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>French Louis</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Milres Portugal</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Ducaton of <hi>Flanders</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>4 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Maximil Dollars</hi> 1616</cell>
+                     <cell>0</cell>
+                     <cell>4 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Rex Dollar <hi>Imperial</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>7 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Leopadus</hi> Dollar 1624</cell>
+                     <cell>0</cell>
+                     <cell>9 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Holland</hi> Dollar</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rodolph</hi> Dollar 1607</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Croſs Dollar</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ferdinand</hi> Dollar 1623</cell>
+                     <cell>0</cell>
+                     <cell>12 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Daniſh</hi> Dollar</cell>
+                     <cell>0</cell>
+                     <cell>13</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>The Value of Gold in Standard.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Gar.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Gr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Roſe-Noble</cell>
+                     <cell>23</cell>
+                     <cell>3 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hungarian</hi> Ducate</cell>
+                     <cell>23</cell>
+                     <cell>3 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elizabeth</hi> Angel</cell>
+                     <cell>23</cell>
+                     <cell>3 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flemiſh</hi> Rider</cell>
+                     <cell>23</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Albertus</hi> Ducate</cell>
+                     <cell>23</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Portugal</hi> Ducate</cell>
+                     <cell>22</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Piſtol</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>States Rider</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh Jacobus</hi>
+                     </cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Croſs Dager</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> new Coin.</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINBURGH, Printed be <hi>John Reid, Anno Dom:</hi> 1695.</p>
+            <pb facs="tcp:132798:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
